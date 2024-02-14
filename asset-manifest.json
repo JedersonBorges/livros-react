@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livros-react/static/css/main.e6c13ad2.css",
+    "main.js": "/livros-react/static/js/main.057ff7cc.js",
+    "static/js/592.414741ce.chunk.js": "/livros-react/static/js/592.414741ce.chunk.js",
+    "index.html": "/livros-react/index.html",
+    "main.e6c13ad2.css.map": "/livros-react/static/css/main.e6c13ad2.css.map",
+    "main.057ff7cc.js.map": "/livros-react/static/js/main.057ff7cc.js.map",
+    "592.414741ce.chunk.js.map": "/livros-react/static/js/592.414741ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.057ff7cc.js"
+  ]
+}
